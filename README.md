@@ -34,8 +34,9 @@ The dashboard includes:
 
 ---
 
-## 📂 Dataset  
+## 📂 Dataset 
 
+Data link: https://www.kaggle.com/datasets/giovamata/airlinedelaycauses/data
 The dataset contains flight records with details such as:  
 - Flight Numbers and Dates  
 - Airlines and Carriers  
@@ -57,7 +58,7 @@ The dataset contains flight records with details such as:
 
 ## 📊 Dashboard Screenshot  
 
-![](Airlines Delay.PNG)  
+![](Dashboard.PNG)  
  
 ---
 
